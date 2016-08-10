@@ -1,2 +1,5 @@
 # SuperCool_iOS
-A Sample StoryBoardApp
+# Author: @AceGod
+A Simple tap-n-play game designed in StoryBoard...
+
+Rated E - for everyone!
